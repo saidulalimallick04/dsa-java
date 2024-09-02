@@ -1,3 +1,8 @@
-I am Saidul Ali Mallick.
-<br>
-This Repo Carries all my DSA codes using Java.
+I will post here all DSA codes (In Java) .
+
+
+A. Learning and Educational Purposes --------
+
+>> This is a Free and Public Repository, Anyone can copy or use these codes in their programs. No restrictions are there.
+
+B.
